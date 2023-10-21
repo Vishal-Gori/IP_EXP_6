@@ -3,7 +3,7 @@ import React from 'react';
 
 function SkillsTable() {
     return (
-        <table>
+        <table id='tech'>
             <tr>
                 <th>Tech-Skills</th>
                 <th>Non-tech-Skills</th>
